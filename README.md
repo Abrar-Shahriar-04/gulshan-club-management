@@ -13,7 +13,7 @@ An enterprise-grade club management simulation software built for an Object-Orie
 ## 👥 Group Members & Assigned Branches
 | Name / Role | Student ID | Branch | Responsibilities |
 | :--- | :--- | :--- | :--- |
-| **Md. Abrar Shahriar Rahman** *(Leader)* | 2530766 | `master` / `dev` |  |
+| **Md. Abrar Shahriar Rahman** *(Leader)* | 2530766 | `leader-Abrar` |  |
 | *Md. Atikul Islam* | 2521757 | `member-Atikul` |  |
 | *Imtiaz Uddin Howlader* | 2520903 | `member-Imtiaz` |  |
 | *Anika Tabassum* | 2411839 | `member-Anika` |  |
