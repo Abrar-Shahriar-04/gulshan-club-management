@@ -1,4 +1,4 @@
-# Gulshan Club Management System
+# Gulshan Club Management System - Group 27
 
 An enterprise-grade club management simulation software built for an Object-Oriented Programming (OOP) group project. This application streamlines club operations, including member accounts, billing, room bookings, and facility management using Java and JavaFX.
 
